@@ -8,20 +8,20 @@ Helping hands is a software tool developed using Java and image processing for h
 6] Handicapped/blind users can listen to regular updates about sports, news etc using our preconfigured RSS feeds<br>
 
 # Screen Captures Of App:
-Menu Screen -
+## Menu Screen -<br>
 ![1](https://cloud.githubusercontent.com/assets/22826481/21951593/7a07cf48-d9bd-11e6-8caf-851affe26b5d.jpg)
 
-Speech command configuration -
+## Speech command configuration -<br>
 ![2](https://cloud.githubusercontent.com/assets/22826481/21951596/7a139ea4-d9bd-11e6-8182-19b63f04fc75.jpg)
 
-Mail configuration -
+## Mail configuration -<br>
 ![3](https://cloud.githubusercontent.com/assets/22826481/21951594/7a126e76-d9bd-11e6-9d7e-ebfd18e651dd.jpg)
 
-Head mouse -
+## Head mouse -<br>
 ![4](https://cloud.githubusercontent.com/assets/22826481/21951597/7a1405f6-d9bd-11e6-89db-af62732fe8a9.jpg)
 
-Speech commands -
+## Speech commands -<br>
 ![5](https://cloud.githubusercontent.com/assets/22826481/21951595/7a13ca28-d9bd-11e6-865d-6a3c8ebc36a3.jpg)
 
-Tool in action
+## Tool in action -<br>
 ![6](https://cloud.githubusercontent.com/assets/22826481/21951598/7a147842-d9bd-11e6-834f-f7fbf52eac62.jpg)
